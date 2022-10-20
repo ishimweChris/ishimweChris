@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ishimweChris
-- 👀 I’m do python, PHP Codeigniter, javascript
-- 🌱 I’m currently learning React
+- 👀 I do python, PHP Codeigniter, javascript, React
+- 🌱 I’m currently learning Machine Learning with Python
 - 💞️ I’m looking to collaborate on various projects hit me if you want mny help
 - 📫 How to reach me +250788345538, my email: ishimwechristian71@gmail.com
 
